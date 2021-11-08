@@ -4,14 +4,23 @@ These Macros all require [TokenMod](https://github.com/shdwjk/Roll20API/tree/mas
 ## Installing TokenMod
 **Only the GM can install TokenMod.**
 
-1. Open the game settings, choose "API Scripts" ![API Scripts](https://i.imgur.com/Q5wiSgm.png)
-2. In the "Script Library" choose the drop down and search for and choose TokenMod ![TokenMod](https://i.imgur.com/hJSRWG0.png)
+1. Open the game settings, choose "API Scripts"
+
+	![API Scripts](https://i.imgur.com/Q5wiSgm.png)
+
+2. In the "Script Library" choose the drop down and search for and choose TokenMod
+
+	![TokenMod](https://i.imgur.com/hJSRWG0.png)
 
 
 ## Adding a Macros
 1. Load the Campaign
-2. Choose the "Collection" button ![Collection Button](https://i.imgur.com/lCweZjU.png)
-3. Choose "+Add" button ![Add Button](https://i.imgur.com/mh90WHK.png)
+2. Choose the "Collection" button
+
+	![Collection Button](https://i.imgur.com/lCweZjU.png)
+3. Choose "+Add" button
+
+	![Add Button](https://i.imgur.com/mh90WHK.png)
 4. Name the macro something easy to remember
 5. Paste the Macro into the "Actions" section
 6. If the macro applies to a token check the "Show as Token Action" button box
