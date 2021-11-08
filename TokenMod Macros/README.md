@@ -12,8 +12,10 @@ These Macros all require [TokenMod](https://github.com/shdwjk/Roll20API/tree/mas
 
 ## Set Token Emits Light
 Allows you to quickly set a token to emit various types of light.
+
 ![Emit Light](https://i.imgur.com/EKkPUUw.png)
 
 ## Set Token Vision
 Allows you to quickly set a token to have various vision settings.
+
 ![Set Vision](https://i.imgur.com/9fTj6FJ.png)
