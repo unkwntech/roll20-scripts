@@ -1,0 +1,9 @@
+!token-mod --set ?{Choose Vision Option|
+No Darkvision, night_vision_distance#0 has_night_vision#off light_angle#360 night_vision_effect#nocturnal light_hassight#on |
+Blinded, night_vision_distance#0 has_night_vision#off light_angle#360 night_vision_effect#nocturnal light_hassight#off |
+Darkvision (30ft), night_vision_distance#30 has_night_vision#on light_angle#360 night_vision_effect#nocturnal has_vision#on |
+Darkvision (60ft), night_vision_distance#60 has_night_vision#on light_angle#360 night_vision_effect#nocturnal has_vision#on |
+Darkvision (90ft), night_vision_distance#90 has_night_vision#on light_angle#360 night_vision_effect#nocturnal has_vision#on |
+Darkvision (120ft), night_vision_distance#120 has_night_vision#on light_angle#360 night_vision_effect#nocturnal has_vision#on |
+Warlock Devil's Sight, night_vision_distance#120 has_night_vision#on light_angle#360 night_vision_effect#nocturnal has_vision#on
+}

@@ -1,0 +1,9 @@
+!token-mod --set ?{Choose Light Source|
+Bullseye Lantern, emits_bright_light#on bright_light_distance#120 low_light_distance#60 |
+Candle, emits_bright_light#on bright_light_distance#5 low_light_distance#0 |
+Hooded Lantern, emits_bright_light#on bright_light_distance#60 low_light_distance#30 |
+Lamp, emits_bright_light#on bright_light_distance#30 low_light_distance#15 |
+Torch, emits_bright_light#on bright_light_distance#20 low_light_distance#20 |
+Daylight Spell, emits_bright_light#on bright_light_distance#60 low_light_distance#60 |
+Light Spell, emits_bright_light#on bright_light_distance#20 low_light_distance#20
+}
